@@ -3,6 +3,8 @@ A Two player Tron like game written in RISC-V Assembly Code.  I compiled and ran
 
 ---------------INSTRUCTIONS AND NOTES FOR USE IN RARS ASSEMBLER------------------
 
+RARS ASSEMBLER AVAILABLE FROM THIS REPO https://github.com/TheThirdOne/rars
+
 The Red Player is controlled using standard WASD controls
 
 Blue player is controlled using IJKL controls.
